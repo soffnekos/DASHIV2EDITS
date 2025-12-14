@@ -65,16 +65,14 @@ global.namechannel = 'DASHI-BOT'
 global.moneda = 'PETRO-DOLARES'
 
 //• ﹒⌗﹒𝑳𝑰𝑵𝑲𝑺 𝑮𝑹𝑼𝑷𝑶𝑺/𝑪𝑨𝑵𝑨𝑳𝑬𝑺 𝑶𝑭𝑰𝑪𝑰𝑨𝑳𝑬𝑺.ৎ˚₊‧ 
-global.gp4 = 'https://chat.whatsapp.com/GPfABUmCuVN2Qu1d1PPcBY?mode=ems_copy_t' //Grupo Oficial De Makima 
-global.gp1 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t' //Grupo 2
-global.gp2 = 'https://chat.whatsapp.com/G3CacsGOOBACv7ssuUoJVj?mode=ems_copy_t'//
+global.gp4 = 'https://chat.whatsapp.com/HAjCJJ2qMs52F75iewnHtN?mode=hqrt2' //Grupo Oficial  
+global.gp1 = 'https://chat.whatsapp.com/IeyMc8ZRnwkBgoqFgzrXLl?mode=hqrt2' //Grupo Oficial 2
+global.gp2 = 'https://chat.whatsapp.com/Lfhrxv1p3B69Bhw7LZ2ddh?mode=hqrt2'//Grupo Oficial 3
 global.channel = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal Oficial
-global.channel2 = 'https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T' //Canal test 
-global.yt = 'https://dash.kurayamihost.dpdns.org/home' //Canal De Youtube
-global.md = 'https://github.com/danielalejandrobasado-glitch/Isagi-Yoichi-Bot.git' //Github Oficial
-global.correo = 'danielalejandrobasado@gmail.com'
-global.cn ='https://whatsapp.com/channel/0029Vb73g1r1NCrTbefbFQ2T'
-
+global.channel2 = ''
+global.yt = ''
+global.md = ''
+global.correo = ''
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/catalogo.jpg');
