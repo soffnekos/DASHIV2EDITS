@@ -104,17 +104,17 @@ clear
 echo -e "\e[36m
 ┏━━━━━━━━━⪩
 ┃˚₊ · ͟͟͞͞➳❥ 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎́𝐍
-┃⏤͟͟͞͞ Makima-Bot-MD
+┃⏤͟͟͞͞ DASHI-BOT
 ┗━━━━━━━━━⪩
 
 ✰ Mode by:
-» Félix Manuel 
+» KJYOTAKA AYANOKOUJI 
 ✰ Créditos:
-» Félix Manuel 
+» KJYOTAKA AYANOKOUJI 
 ✰ GitHub:
-» https://github.com/mantis-has
+» https://github.com/soffnekos.git
 ✰ Número del creador del bot:
-» +18293142989
+» +51926427586
 
 𝐆 𝐑 𝐀 𝐂 𝐈 𝐀 𝐒, 𝐏 𝐎 𝐑, 𝐏 𝐑 𝐄 𝐅 𝐄 𝐑 𝐈 𝐑 𝐍 𝐎 𝐒\n\e[0m"
 
