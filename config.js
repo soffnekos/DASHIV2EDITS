@@ -50,7 +50,7 @@ global.makiJadibts = true
 
 global.packsticker = `⏤͟͞ू⃪ DASHI-BOT𑁯ᰍ\n`
 global.packname = `⏤͟͞ू⃪  ̸̷͢DASHI-BOT𑁯ᰍ`
-global.author = `socket:\n✐ Yoichi isagi\n\nStickers Desarrollados en KJYOTAKA`;
+global.author = `socket:\n✐ DASHI IKISUKI\n\nStickers Desarrollados en KJYOTAKA`;
 global.wm = '⏤͟͞ू⃪  ̸̷͢MADE IN KJYOTAKA ';
 global.titulowm = '⏤͟͞ू⃪KJYOTAKA𑁯ᰍ';
 global.igfg = 'KJYOTAKA'
