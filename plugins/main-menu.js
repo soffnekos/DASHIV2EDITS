@@ -15,7 +15,7 @@ let handler = async (m, { conn, usedPrefix }) => {
   
   // Texto del menú
   let menu = `
-¡𝐇𝐨𝐥𝐚 𝐔𝐬𝐮𝐚𝐫𝐢𝐨! 𝐒𝐨𝐲 ⏤͟͞ू⃪𝐘𝐨𝐢𝐜𝐡𝐢 𝐁ot͟𑁯ᰍ
+¡𝐇𝐨𝐥𝐚 𝐔𝐬𝐮𝐚𝐫𝐢𝐨! 𝐒𝐨𝐲 ⏤͟͞ू⃪DASHI-BOT
 
 ╭━━I N F O-B O-T━━
 ┃Creador: ⏤͟͟͞͞𝐃𝐮𝐚𝐫𝐭𝐞
