@@ -17,8 +17,6 @@ global.botNumber = '' //Ejemplo: 527222519827
 
 global.owner = [
   ['51926427586', '𝗖𝗿𝗲𝗮𝗱𝗼𝗿', true],
-  ['', 'Félix ofc', true],
-  ['', 'Numero de antes', true],
   ['']
 ]
 
@@ -51,13 +49,13 @@ global.makiJadibts = true
 global.packsticker = `⏤͟͞ू⃪ DASHI-BOT𑁯ᰍ\n`
 global.packname = `⏤͟͞ू⃪  ̸̷͢DASHI-BOT𑁯ᰍ`
 global.author = `socket:\n✐ DASHI IKISUKI\n\nStickers Desarrollados en KJYOTAKA`;
-global.wm = '⏤͟͞ू⃪  ̸̷͢MADE IN KJYOTAKA ';
-global.titulowm = '⏤͟͞ू⃪KJYOTAKA𑁯ᰍ';
+global.wm = '⏤͟͞ू⃪  ̸̷͢MADE IN KJYOTAKA '
+global.titulowm = '⏤͟͞ू⃪KJYOTAKA𑁯ᰍ'
 global.igfg = 'KJYOTAKA'
 global.botname = 'DASHI-BOT'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ KJYOTAKA'
 global.textbot = '⏤͟͟͞͞KYOTAKA'
-global.gt = ''⏤͟͟͞͞KYOTAKA;
+global.gt = '⏤͟͟͞͞KYOTAKA'
 global.namechannel = 'DASHI-BOT'
 
 //*─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─✰─ׄ─ׅ─ׄ─*
